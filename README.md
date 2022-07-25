@@ -1,5 +1,4 @@
 <h2> Hello, I'm Felix Geißler! <img src="https://media.giphy.com/media/KG4XyxTPBHOwpVJzi5/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/dWT8DuGDdZeso9Qxz7/giphy.gif" width="200">
 
 <p>
   <em>Fullstack developer at <a href="https://www.alemo.de">alemo kommunikations GmbH</a>
@@ -22,7 +21,7 @@ const felix = {
   frameworks: [Angular, NestJS, Laravel, Symfony],
   tools: [Docker, Web Components, RxJS, VSCode],
   architecture: ["web components", "microservices", "design system pattern"],
-  interests: [DJing, Audio Engeneering, Photography, IoT]
+  interests: [Photography, DJing, Audio Engeneering, IoT]
 }
 ```
 

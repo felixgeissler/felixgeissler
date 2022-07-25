@@ -4,9 +4,6 @@
 <p>
   <em>Fullstack developer at <a href="https://www.alemo.de">alemo kommunikations GmbH</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36">
-  </br>
-  Studying media technology at <a href="https://www.tu-ilmenau.de">TU Ilmenau</a>
-  <img src="https://media.giphy.com/media/JO4lo82apdtaltBhEN/giphy.gif" width="30">
   </em>
 </p>
 
